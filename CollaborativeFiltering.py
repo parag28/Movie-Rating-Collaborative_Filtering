@@ -1,8 +1,4 @@
-"""
-Name: Parag Ramdas Kaldate
-(SUID: 382668566)
-HW5 Problem 3
-"""
+
 import numpy as np
 import pandas as pd 
 
